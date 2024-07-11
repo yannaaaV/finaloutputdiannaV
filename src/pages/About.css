@@ -1,0 +1,47 @@
+#about-info {
+  margin-bottom: 10%;
+  margin-top: 45%;
+    min-height: 50vh;
+    background: rgba(231, 43, 74, 0.562);
+}
+.h1{
+  font-size: 30px;
+}
+
+#about img {
+  width: 300px;
+  border-radius: 10px;
+  box-shadow: 20px 20px 20px #000;
+}
+
+#about img:hover {
+  width: 350px;
+  transition: all .5s ease;
+}
+
+#about span:hover {
+  color: #1622c9;
+  filter: drop-shadow(0 0 0.75rem purple);
+  text-shadow: 0 0 20px purple, 0 0 40px purple;
+  transition: all 0.4s ease;
+}
+
+#about span {
+  font-size: 18px;
+  text-decoration: none;
+  color: rgba(239, 6, 111, 0.473);
+}
+
+#about {
+  background: rgba(7, 0, 1, 0.788); 
+  padding-top: 10px;
+padding-bottom: 30px;
+}
+.card shadow{
+  background: rgb(247, 159, 173);
+
+}
+.card{
+  background: rgb(255, 255, 255);
+
+}
