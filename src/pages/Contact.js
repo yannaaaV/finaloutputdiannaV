@@ -58,7 +58,7 @@ const Contact = () => {
                         <FontAwesomeIcon className="instagram" icon={faInstagram} size="2x" />
                       </a>
                       <a
-                        href="https://twitter.com/your-twitter-profile"
+                        href="https://open.spotify.com/user/31tz4pynmiwvaaz7kg6e4jszyflq?si=jG9U0xhRTNe2zyfnp3tacw"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="me-4 text-decoration-none"
